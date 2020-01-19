@@ -1,0 +1,1 @@
+<view class="item"><text>课程信息</text><text>A509</text></view>

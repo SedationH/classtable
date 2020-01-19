@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "m-item": "/components/item"
+  },
+  "component": true
+}

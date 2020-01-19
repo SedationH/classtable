@@ -1,0 +1,8 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "usingComponents": {},
+  "sitemapLocation": "sitemap31.json"
+}
